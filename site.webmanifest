@@ -1,0 +1,8 @@
+{
+  "name": "Springs Mold Solutions",
+  "short_name": "Springs Mold",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a2e4d",
+  "theme_color": "#0a2e4d"
+}
