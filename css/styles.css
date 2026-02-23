@@ -311,3 +311,13 @@ section { padding: 5rem 0; }
 .alert-box { background: var(--danger-light); border-left: 4px solid var(--danger); border-radius: var(--radius-sm); padding: 1.25rem 1.5rem; margin: 1.5rem 0; }
 .alert-box p { color: var(--text); margin: 0; }
 .alert-box strong { color: var(--danger); }
+
+/* === NUCLEAR: Force all content visible === */
+.reveal, .fade-up, .slide-in-left, .slide-in-right,
+[data-aos], [data-aos="fade-up"], [data-aos="fade-in"],
+.gallery-grid > *, .testimonials-grid > *, .about-stats > *,
+.split-text .char {
+  opacity: 1 !important;
+  transform: none !important;
+  visibility: visible !important;
+}
