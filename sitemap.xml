@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://springsmoldsolutions.com/</loc>
-    <lastmod>2026-02-22</lastmod><priority>1.0</priority></url>
-  <url><loc>https://springsmoldsolutions.com/about.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.8</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <url><loc>https://springsmoldsolutions.com/services.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.9</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://springsmoldsolutions.com/about.html</loc>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://springsmoldsolutions.com/contact.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://springsmoldsolutions.com/faq.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://springsmoldsolutions.com/cost-guide.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://springsmoldsolutions.com/mold-inspection.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.8</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://springsmoldsolutions.com/mold-remediation.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.8</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://springsmoldsolutions.com/black-mold-removal.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.8</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://springsmoldsolutions.com/water-damage-restoration.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.8</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://springsmoldsolutions.com/crawl-space-mold.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.8</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://springsmoldsolutions.com/commercial-mold-removal.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.8</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://springsmoldsolutions.com/faq.html</loc>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://springsmoldsolutions.com/cost-guide.html</loc>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://springsmoldsolutions.com/locations/briargate.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://springsmoldsolutions.com/locations/old-colorado-city.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://springsmoldsolutions.com/locations/manitou-springs.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://springsmoldsolutions.com/locations/security-widefield.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://springsmoldsolutions.com/locations/fountain.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://springsmoldsolutions.com/locations/woodland-park.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://springsmoldsolutions.com/locations/monument.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://springsmoldsolutions.com/locations/falcon.html</loc>
-    <lastmod>2026-02-22</lastmod><priority>0.7</priority></url>
+    <lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
