@@ -1,0 +1,37 @@
+[
+  {
+    "index": 1,
+    "slug": "fountain-mold-removal",
+    "prompt": "Professional mold remediation technician in full PPE suit and respirator treating black mold on basement drywall in a Fountain Colorado home, containment barriers with plastic sheeting set up around the work area, HEPA air scrubber running in the corner, typical Colorado front range home with exposed framing visible, cool basement lighting supplemented by portable LED work lights, shot on Canon EOS 5D Mark IV with 35mm f/1.4 lens, documentary style environmental photography, photorealistic detail",
+    "negative_prompt": "cartoon, illustration, anime, CGI, 3D render, watermark, text overlay, stock photo watermark, oversaturated colors, blurry, low resolution",
+    "category": "gallery"
+  },
+  {
+    "index": 2,
+    "slug": "pueblo-mold-removal",
+    "prompt": "Mold removal crew working inside a Pueblo Colorado residential home, technician in protective Tyvek suit using a negative air machine while removing mold-affected drywall sections, older Pueblo-style adobe and stucco home interior, dry high-desert light coming through a nearby window, containment plastic zip door visible in the hallway, shot on Nikon D850 with 24-70mm f/2.8 lens, wide angle showing the full containment setup, photorealistic editorial photography with natural warm tones",
+    "negative_prompt": "cartoon, illustration, anime, CGI, 3D render, watermark, text overlay, stock photo watermark, oversaturated colors, blurry, low resolution",
+    "category": "gallery"
+  },
+  {
+    "index": 3,
+    "slug": "mold-inspection-hero",
+    "prompt": "Certified mold inspector conducting a thorough mold inspection in a Colorado Springs Colorado home, using a moisture meter on a bathroom wall near the baseboards, thermal imaging camera on a tripod nearby showing heat signature anomalies, inspector wearing nitrile gloves and a respirator, modern Colorado home bathroom with tile and drywall, soft overhead bathroom lighting mixed with natural window light, shot on Sony A7R IV with 50mm f/1.8 lens, medium close-up showing the inspection tools in use, photorealistic documentary photography",
+    "negative_prompt": "cartoon, illustration, anime, CGI, 3D render, watermark, text overlay, stock photo watermark, oversaturated colors, blurry, low resolution",
+    "category": "hero"
+  },
+  {
+    "index": 4,
+    "slug": "mold-remediation-hero",
+    "prompt": "Full-scale mold remediation project underway in a Colorado Springs Colorado basement, two technicians in white hazmat suits and full-face respirators removing mold-contaminated insulation from wall cavities, professional containment with heavy plastic sheeting and negative air pressure system running, dehumidifier and HEPA filtration units on the concrete floor, bright portable LED panel lights illuminating the workspace, shot on Canon EOS R5 with 16-35mm f/2.8 lens, wide environmental shot capturing the full professional setup, photorealistic industrial documentation photography",
+    "negative_prompt": "cartoon, illustration, anime, CGI, 3D render, watermark, text overlay, stock photo watermark, oversaturated colors, blurry, low resolution",
+    "category": "hero"
+  },
+  {
+    "index": 5,
+    "slug": "water-damage-mold-hero",
+    "prompt": "Water damage and mold restoration in progress in a Colorado Springs Colorado home after a pipe burst, technician using an industrial dehumidifier and air movers to dry out a flooded living room with water-stained drywall partially removed exposing damp studs with early mold growth, Pikes Peak region home with hardwood floors showing water damage warping, overcast Colorado daylight through windows mixed with work lights, shot on Nikon Z7 II with 24-120mm f/4 lens, wide angle composition showing the scope of water damage and remediation equipment in action, photorealistic emergency restoration photography",
+    "negative_prompt": "cartoon, illustration, anime, CGI, 3D render, watermark, text overlay, stock photo watermark, oversaturated colors, blurry, low resolution",
+    "category": "hero"
+  }
+]
