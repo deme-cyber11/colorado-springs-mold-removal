@@ -1,0 +1,23 @@
+# Springs Mold Solutions
+
+> Professional mold removal and remediation services in Colorado Springs, CO. Licensed, insured, and available 24/7 for emergency mold situations. Average rating 4.9/5 from 187+ reviews.
+
+## About
+Professional mold removal and remediation services in Colorado Springs, CO. Licensed, insured, and available 24/7 for emergency mold situations.
+
+## Service Areas
+Colorado Springs, Manitou Springs, Fountain, Monument, Woodland Park, Falcon.
+
+## Contact
+- Phone: (719) 496-8287
+- Hours: Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 00:00–23:59
+- Website: https://springsmoldsolutions.com
+- Quote Request: https://lead-manager-api.irontigerdigital.workers.dev/lead
+
+## Key Pages
+- [Services](https://springsmoldsolutions.com/services/)
+- [FAQ](https://springsmoldsolutions.com/faq/)
+- [Contact](https://springsmoldsolutions.com/contact/)
+- [Get an Estimate](https://springsmoldsolutions.com/estimate/)
+
+_Last updated: 2026-04-25_
