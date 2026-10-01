@@ -293,6 +293,7 @@ body.dm > header:not(.header):not(.dm-hero) > nav > a { white-space: nowrap; }
 @media (max-width: 640px) { body.dm > header:not(.header):not(.dm-hero) > nav { padding: 10px 16px; } body.dm > header:not(.header):not(.dm-hero) > nav > a[href^="tel"] { padding: 9px 12px; font-size: .9rem; } body.dm > header:not(.header):not(.dm-hero) > nav > a:first-child { font-size: 1rem; } }
 body.dm li span, body.dm p span { overflow-wrap: anywhere; }
 body.dm > footer:not(.footer) { margin-top: 0 !important; }
+body.dm .dm-hero p > a:only-child { color: rgba(255,255,255,.85) !important; font-weight: 600; }
 
 /* ===== springs home (styles.v1 vocabulary) ===== */
 body.dm-home section.hero { position: relative; isolation: isolate; overflow: hidden; color: #fff; text-align: left; margin: 0; min-height: 0;
