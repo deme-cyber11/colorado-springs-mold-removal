@@ -291,6 +291,8 @@ body.dm .dm-wrap .areas-we-serve { padding: 28px; border-radius: 18px; margin: 2
 @media (max-width: 640px) { body.dm > footer:not(.footer) { padding-top: 28px; } }
 body.dm > header:not(.header):not(.dm-hero) > nav > a { white-space: nowrap; }
 @media (max-width: 640px) { body.dm > header:not(.header):not(.dm-hero) > nav { padding: 10px 16px; } body.dm > header:not(.header):not(.dm-hero) > nav > a[href^="tel"] { padding: 9px 12px; font-size: .9rem; } body.dm > header:not(.header):not(.dm-hero) > nav > a:first-child { font-size: 1rem; } }
+body.dm li span, body.dm p span { overflow-wrap: anywhere; }
+body.dm > footer:not(.footer) { margin-top: 0 !important; }
 
 /* ===== springs home (styles.v1 vocabulary) ===== */
 body.dm-home section.hero { position: relative; isolation: isolate; overflow: hidden; color: #fff; text-align: left; margin: 0; min-height: 0;
@@ -372,4 +374,4 @@ body.dm .response-promise strong { color: #fff !important; }
 @media (max-width: 640px) { body.dm-home .trust-badges { display: grid; grid-template-columns: 1fr 1fr; justify-items: center; } }
 body.dm-home section.hero, body.dm-home section.hero .hero-text, body.dm-home section.hero .hero-content { text-align: left !important; }
 body.dm-home .hero-buttons, body.dm-home .hero-trust { justify-content: flex-start !important; }
-@media (max-width: 640px) { body.dm-home .mobile-cta a { font-size: .82rem !important; } body.dm-home .hero-label { font-size: .7rem; } }
+@media (max-width: 640px) { body.dm-home .mobile-cta a { font-size: .82rem !important; } body.dm-home .hero-label { font-size: .76rem; } }
