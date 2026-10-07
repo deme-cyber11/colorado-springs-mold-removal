@@ -468,3 +468,19 @@ body.dm > footer:not([class]):has(.footer-content) .footer-bottom { max-width: 1
   body.dm .header .nav-dropdown .dropdown-menu, body.dm .header .nav-dropdown:hover .dropdown-menu { grid-template-columns: 1fr; }
   body.dm .header .nav-dropdown .dropdown-menu a { white-space: normal; }
 }
+
+/* ===== 2026-10-07 design check ===== */
+@media (max-width: 1100px) {
+  /* a header with backdrop-filter traps its menu panel; the panel ended about 60px below a 390px phone screen (urgency banner plus header sit above it) */
+  body.dm .header { backdrop-filter: none; -webkit-backdrop-filter: none; background: #fff; }
+  body.dm .header .nav-links { max-height: calc(100vh - 150px); max-height: calc(100dvh - 150px); overscroll-behavior: contain; }
+}
+/* 404: two buttons side by side with a gap, stacked on phones without overlap */
+body.dm-p404 .dm-split .btn { display: inline-flex; margin: 6px 12px 6px 0; }
+/* blog index post cards: titles in the heading color, link row in brand */
+body.dm .dm-sub h3 a { color: var(--ink); text-decoration: none; }
+body.dm .dm-sub h3 a:hover { color: var(--brand); }
+body.dm .dm-sub p:last-child a { font-weight: 700; }
+/* Manitou Springs local block */
+body.dm .seo-content-block.dm-band .dm-wrap > * { max-width: 900px; }
+body.dm .seo-content-block.dm-band h3 { margin: 28px 0 8px; }
