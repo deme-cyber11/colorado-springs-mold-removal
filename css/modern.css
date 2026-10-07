@@ -484,3 +484,9 @@ body.dm .dm-sub p:last-child a { font-weight: 700; }
 /* Manitou Springs local block */
 body.dm .seo-content-block.dm-band .dm-wrap > * { max-width: 900px; }
 body.dm .seo-content-block.dm-band h3 { margin: 28px 0 8px; }
+/* location pages: "Other Areas We Serve" pills were squeezed into 3 columns on phones, the check sat outside each pill */
+body.dm .areas-we-serve ul > li { padding-left: 0 !important; }
+body.dm .areas-we-serve ul > li::before { display: none !important; }
+body.dm .areas-we-serve a { width: 100%; align-items: center; line-height: 1.35; }
+@media (max-width: 900px) { body.dm .areas-we-serve ul { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 520px) { body.dm .areas-we-serve ul { grid-template-columns: minmax(0, 1fr); } }
